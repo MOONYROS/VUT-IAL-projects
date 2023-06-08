@@ -66,3 +66,6 @@ c203-test
 #task 2
 !btree.c
 !hashtable.c
+
+#sorting
+!sorting/*
