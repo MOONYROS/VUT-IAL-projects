@@ -53,11 +53,16 @@ dkms.conf
 
 #custom
 *.c
-!c201.c
-!c203.c
-!c206.c
 *.h
 *.output
 Makefile
-
 c203-test
+
+#task 1
+!c201.c
+!c203.c
+!c206.c
+
+#task 2
+!btree.c
+!hashtable.c
