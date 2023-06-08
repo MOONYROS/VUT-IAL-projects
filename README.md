@@ -18,6 +18,7 @@ I tested both tasks on these systems:
 
 - Windows 11
 - Ubuntu 22.04
+- MacOS Ventura
 - Merlin (our Linux school server)
 
 ## Sorting algorithms
