@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#custom
+*.c
+!c201.c
+!c203.c
+!c206.c
+*.h
+*.output
+Makefile
+
+c203-test
